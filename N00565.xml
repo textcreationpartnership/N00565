@@ -109,8 +109,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000694_0000_0FA9A15371B115A8"/>
-            <pb facs="tcp:000694_0001_0FA9A1543AD98188"/>
+            <pb facs="unknown:000694_0000_0FA9A15371B115A8"/>
+            <pb facs="unknown:000694_0001_0FA9A1543AD98188"/>
             <p>ACTS AND LAWS, Passed by the Great and General Court or Assembly of Their Majesties Province of the Massachusetts-Bay, in NEW-ENGLAND.</p>
             <p>Begun at <hi>Boston,</hi> the Eighth Day of <hi>November,</hi> 1693. And Continued by Adjournment unto <hi>Wednesday</hi> the Fourteenth Day of <hi>February</hi> following: Being the Second Sessions.</p>
             <p>Anno Regni Guilielmi, et Mariae, Regis et Reginae, Angliae, Scotiae, Franciae, et Hiberniae, Sexto.</p>
@@ -119,7 +119,7 @@
       </front>
       <body>
          <div type="act">
-            <pb n="49" facs="tcp:000694_0002_0FA9A15688E2EED0"/>
+            <pb n="49" facs="unknown:000694_0002_0FA9A15688E2EED0"/>
             <head>Anno Regni Regis et Reginae, GULIELMI et MARIAE, Sexto.</head>
             <head>AN ACT, For the better Rule and Government of the Indians in their several Places and Plantations.</head>
             <p>
@@ -137,7 +137,7 @@
             <p>That no Person or Persons whomsoever, shall directly or indirectly Sell, Truck, Barter, or give to any <hi>Indian,</hi> any Strong Beer, Ale, Cyder,<note place="margin">
                   <hi>Penalty for selling strong drink to be In<g ref="char:EOLhyphen"/>dians.</hi>
                </note> Perry, Wine, Rhum, Brandy or other Strong Liquors, by what name or names soever called or known, on pain of forfeiting the Sum of <hi>Forty Shillings</hi> for every Pint, and proportionably for any greater or lesser quantity so Sold, Truckt, Bartered, given or delivered to any <hi>Indian,</hi> directly or indirectly as aforesaid, upon Conviction thereof be<g ref="char:EOLhyphen"/>fore a Justice of the Peace, where the penalty does not exceed <hi>Forty Shillings</hi>: And if it exceed that Sum, at the Sessions of the Peace to be holden for the same County where the offence is committed: One Moiety of all such Forfeitures to be unto Their Majesties for and towards the support of the Government, and the other Moiety to him or them that shall inform and prosecute the same by Bill,
-<pb n="50" facs="tcp:000694_0003_0FA9A1572E427FB0"/>
+<pb n="50" facs="unknown:000694_0003_0FA9A1572E427FB0"/>
 Plaint, or Information. And if the offender be unable or shall not forthwith pay and satisfy the said Penalty or Forfeiture, then to be committed to the Goal of the County; there to remain until he pay and satisfy the same, or suffer two Months imprisonment.</p>
             <p>
                <hi>Provided</hi> this Act shall not be intended or extend to restrain any Act of Charity for relieving any <hi>Indian (Bona fide)</hi> in any sudden Exigent of Faintness or Sickness, not to exceed one or two Drams; or by Prescription of some Physician in writing, or by the allowance of a Justice of Peace.</p>
@@ -172,7 +172,7 @@ Plaint, or Information. And if the offender be unable or shall not forthwith pay
                </note> or else be openly Whipped by the Constable of such Town or place, or some other that he shall procure<g ref="char:punc">▪</g> not exceeding <hi>Ten Lashes,</hi> as the Justice of Peace before whom such Conviction is, shall determin.</p>
          </div>
          <div type="act">
-            <pb n="51" facs="tcp:000694_0004_0FA9A157F30CB5D8"/>
+            <pb n="51" facs="unknown:000694_0004_0FA9A157F30CB5D8"/>
             <head>AN ACT For the Relief of Ideots and Distracted Persons.</head>
             <p>
                <hi>BE it Enacted by the Governour, Council, and Represen<g ref="char:EOLhyphen"/>tatives, in General Court Assembled, and by the Au<g ref="char:EOLhyphen"/>thority of the same,</hi>
@@ -189,7 +189,7 @@ Plaint, or Information. And if the offender be unable or shall not forthwith pay
          </div>
          <div type="act">
             <pb n="52"
-                facs="tcp:000694_0005_0FA9A158B14E6BD8"
+                facs="unknown:000694_0005_0FA9A158B14E6BD8"
                 rendition="simple:additions"/>
             <head>AN ACT, To Restrain the Exportation of Raw-Hides &amp; Skins out of the Province of the Massachusetts-Bay, and for the better Preservation &amp; Increase of Deer in the said Province.</head>
             <p>WHEREAS the Exportation of Raw-Hides and Skins out of this Province into <hi>Holland,</hi> and diverse other Places, hath been found to be very much to the Prejudice of this Province.</p>
@@ -205,7 +205,7 @@ Plaint, or Information. And if the offender be unable or shall not forthwith pay
                   <hi>Hides or Skins impor<g ref="char:EOLhyphen"/>ted, may be exported, Oath being first made.</hi>
                </note> to Ship, Load, or Transport out of this Province any Hides, or Skins, which have been imported into this Province, from any other Province or place whatsoever, upon Oath first made before the <hi>Naval</hi> Officer that the said Hides, or Skins, were Imported into this Province, from some other Province or Place.</p>
             <p>
-               <pb n="53" facs="tcp:000694_0006_0FA9A15975B5C950"/>
+               <pb n="53" facs="unknown:000694_0006_0FA9A15975B5C950"/>
                <hi>
                   <hi>And</hi> Whereas the Killing of Deer at unseasonable times of the Year, hath been found very much to the Prejudice of this Province, great numbers thereof having been Hunted and Destroyed in deep Snows when they are very Poor, and bigg with Young, the Flesh and Skins of very little value, and the Increase thereof greatly hindred.</hi>
             </p>
@@ -226,7 +226,7 @@ Plaint, or Information. And if the offender be unable or shall not forthwith pay
          </div>
          <div type="supplements_to_acts">
             <pb n="54"
-                facs="tcp:000694_0007_0FA9A15A2D7FC038"
+                facs="unknown:000694_0007_0FA9A15A2D7FC038"
                 rendition="simple:additions"/>
             <head>AN ACT, Of Supplement and Addition to several Acts &amp; Laws of this Province.</head>
             <div type="supplement_to_act">
@@ -244,7 +244,7 @@ Plaint, or Information. And if the offender be unable or shall not forthwith pay
                   </note> or any of the dependences thereof; or to continue there above the space of one Hour (other than Travellers, Persons upon business, or extraordinary Occasions) On the like Penalty of <hi>Ten Shillings</hi> for every offence.</p>
                <p>
                   <hi>And</hi> every Person as aforesaid, who contrary to this Act shall con<g ref="char:EOLhyphen"/>tinue in any such House Tipling, or drinking or otherwise misordering
-<pb n="55" facs="tcp:000694_0008_0FA9A15AED917760"/>
+<pb n="55" facs="unknown:000694_0008_0FA9A15AED917760"/>
 him or her self or above the space of one Hour (other than as afore<g ref="char:EOLhyphen"/>said) shall forfeit and pay the Sum of <hi>Three Shillings</hi> and <hi>four pence,</hi> or be set in the Stocks not exceeding four hours time.</p>
                <p>
                   <hi>That</hi> no Person Licensed as aforesaid,<note place="margin">
@@ -271,7 +271,7 @@ him or her self or above the space of one Hour (other than as afore<g ref="char:
                   </gap>  commonly known by the Sign of  <gap reason="blank" extent="1 word">
                      <desc> _____ </desc>
                   </gap>  and no other. If therefore the said <hi>A. B.</hi> during the time aforesaid, shall not permit, suffer or have any Playing at Dice, Cards, Tables, Quoits, Loggets, Bowles, Shuffle-board, Ninepins, Billiards, or any other unlawful Game or Games in his or her House, Yard, Garden, Back-side, or any of the dependances thereof; nor shall suffer to be or remain in his or her house, any Person or Persons not being of his or her ordinary Houshold or Family, on the Lords day or any part thereof contrary to Law; nor shall Sell any Wine, Liquors, or other Strong drink, to any Apprentices, Servants, Indians or Negros; nor shall suffer any Person or Persons to be there Tipling, Drinking, or continue there after Nine of the Clock in
-<pb n="56" facs="tcp:000694_0009_0FA9A15CFB1DB290"/>
+<pb n="56" facs="unknown:000694_0009_0FA9A15CFB1DB290"/>
 the night time, or otherwise contrary to Law: And in his or her said House, shall and do use, maintain and uphold good Order and Rule, and do Endeavour the due Observance of the Laws made for Regulation of such Houses. Then this present Recogniscance to be void, or else to stand and abide in full force and Virtue.</p>
                <p>
                   <hi>For</hi> which Recogniscance, the party to whom such Licence is granted, shall pay <hi>Two Shillings,</hi>
@@ -299,7 +299,7 @@ the night time, or otherwise contrary to Law: And in his or her said House, shal
                      <hi>Penalty for not serving.</hi>
                   </note> upon conviction of such refusal before the Justice of the Peace or Sessions of the Peace, where he is summoned to be Sworn; Certificate being pro<g ref="char:EOLhyphen"/>duced under the hand of the Town Clerk, that such Person was legal<g ref="char:EOLhyphen"/>ly chosen to that Office. And the said forfeiture to be levied by dis<g ref="char:EOLhyphen"/>tress and Sale of such Persons goods, by Warrant from a Justice of the Peace or Sessions of the Peace respectively, and delivered to the Town Treasurer or overseers of the Poor for the use aforesaid.</p>
                <p>
-                  <pb n="57" facs="tcp:000694_0010_0FA9A15D317AA040"/>
+                  <pb n="57" facs="unknown:000694_0010_0FA9A15D317AA040"/>
                   <hi>And</hi> all Tythingmen that shall Inform and Prosecute for the breach of any Penal Act, shall have the benefit of such part of the forfeiture as does by Law accrue to the Informer.<note place="margin">
                      <hi>Tythingmen allowed the benefit of In<g ref="char:EOLhyphen"/>formers.</hi>
                   </note> And all Persons prosecuted for breach of the Act relating to Excise and Retailers without Licence, the penalty whereof for one offence exceeds not <hi>Forty Shillings</hi> besides charges, may be convicted by two single Evidences upon Oath though but one to one breach of said Act and both the breaches be within one Month, the Person accused or complained of, not plainly and positively denying the Fact.</p>
@@ -332,7 +332,7 @@ the night time, or otherwise contrary to Law: And in his or her said House, shal
                   </note>
                </p>
                <p>That if any Person or Persons hereafter, shall cut or carry off any manner of Wood or Timber from another Person or Persons Land, or the Commons of an other Town then which he doth belong to, without the leave or Licence of the owner or owners of the Land where such
-<pb n="58" facs="tcp:000694_0011_0FA9A15DF4E4BDB0"/>
+<pb n="58" facs="unknown:000694_0011_0FA9A15DF4E4BDB0"/>
 Wood or Timber shall be fallen, cut down or carryed off; every Per<g ref="char:EOLhyphen"/>son so offending, shall forfeit the Sum of <hi>Twenty Shillings,</hi> for every Tree above one Foot over, and <hi>Ten Shillings</hi> for every Tree under that bigness, to be recovered by due Process of Law: And if any Person shall be convict of such offence the Second time besides the above damage to the party; shall forfeit and pay to the use of the poor of such Town where the offence is committed the Sum of <hi>Twenty Shillings,</hi> or suffer one Months imprisonment. And every Justice of the Peace within the County, is hereby Impowred to hear and determin all offences against this Act, where the forfeiture does not exceed <hi>Forty Shillings.</hi>
                </p>
                <p>
@@ -353,7 +353,7 @@ Wood or Timber shall be fallen, cut down or carryed off; every Per<g ref="char:E
                </p>
             </div>
             <div type="supplement_to_act">
-               <pb n="59" facs="tcp:000694_0012_0FA9A15EB00A3BA8"/>
+               <pb n="59" facs="unknown:000694_0012_0FA9A15EB00A3BA8"/>
                <head>And in Addition to the Act Entituled, An Act, For Regulating of Town-ships; Choice of Town Officers, and Setting forth their Power.</head>
                <p>
                   <hi>IT is further Enacted by the Authority aforesaid,</hi>
@@ -388,7 +388,7 @@ Wood or Timber shall be fallen, cut down or carryed off; every Per<g ref="char:E
                      <hi>Superiour Court &amp;c. for Middle<g ref="char:EOLhyphen"/>sex, to be held at Cambridge</hi>
                   </note> be hence forth holden and kept at <hi>Cambridge,</hi> the Shire Town, upon the last <hi>Tuesday</hi> in <hi>July,</hi> and on the last <hi>Tuesday</hi> in <hi>January</hi> annually, any Law usage or custom to the contrary notwithstanding.</p>
                <p>
-                  <pb n="60" facs="tcp:000694_0013_0FA9A15F723103A8"/>
+                  <pb n="60" facs="unknown:000694_0013_0FA9A15F723103A8"/>
                   <hi>
                      <hi>And</hi> for the better Preventing of Fraud in Cord Wood.</hi>
                </p>
